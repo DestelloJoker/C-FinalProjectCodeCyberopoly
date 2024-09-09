@@ -1,0 +1,26 @@
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\bin\Debug\MonopolyGuiAndBoard.exe.config
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\bin\Debug\MonopolyGuiAndBoard.exe
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\bin\Debug\MonopolyGuiAndBoard.pdb
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.csproj.AssemblyReference.cache
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.Form1.resources
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.Properties.Resources.resources
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.csproj.GenerateResource.cache
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.csproj.CoreCompileInputs.cache
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.exe
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.pdb
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.PlayerSelectForm.resources
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.CyberopolyGameBoardForm.resources
+C:\Users\pajdm\OneDrive\Documents\C#\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.MortgagePropertyDialog.resources
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\bin\Debug\MonopolyGuiAndBoard.exe.config
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\bin\Debug\MonopolyGuiAndBoard.exe
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\bin\Debug\MonopolyGuiAndBoard.pdb
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.csproj.AssemblyReference.cache
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.Form1.resources
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.CyberopolyGameBoardForm.resources
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.MortgagePropertyDialog.resources
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.PlayerSelectForm.resources
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.Properties.Resources.resources
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.csproj.GenerateResource.cache
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.csproj.CoreCompileInputs.cache
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.exe
+C:\Users\pajdm\Downloads\CyberopolyGameCodeUpdated (1)\MonopolyGuiAndBoard\MonopolyGuiAndBoard\obj\Debug\MonopolyGuiAndBoard.pdb
